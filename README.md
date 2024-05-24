@@ -5,6 +5,7 @@
 ###
 
 <br clear="both">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kur1an&label=Profile%20views&color=0e75b6&style=flat" alt="kur1an" /> </p>
 
 <p align="left">Fearless explorer of digital realms, crafting innovative solutions. 🚀💡<br><br>Precision-driven creator, weaving elegance into every endeavor. ✨🎨<br><br>Boundless creativity meets relentless pursuit of excellence. 🌟🔥<br><br>Digital architect shaping tomorrow's landscape with expertise🏗️🌎<br><br>Unyielding determination fuels the quest for technological mastery💪</p>
 
