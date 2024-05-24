@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kur1an&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=kur1an&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=kur1an&theme=dracula&no-bg=true&no-frame=false" height="150" alt="trophy graph" /> <br>
@@ -123,7 +123,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/TvkljY-ujP4AAAAC/tomas-shelby.gif"  />
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/TvkljY-ujP4AAAAC/tomas-shelby.gif"  />
+</div>
 
 ###
 
@@ -135,7 +137,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/amithkurianjoseph/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -172,6 +174,6 @@
 
 <br clear="both">
 
-<h3 align="left">🌟 Eager for synergy. Let's alchemize the ineffable ! ! 🚀</h3>
+<h3 align="center">🌟 Eager for synergy. Let's alchemize the ineffable ! ! 🚀</h3>
 
 ###
