@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Amith <br><br><br>A passionate developer from India</h1>
+<h1 align="center">Hi 👋, I'm Amith <br><br><br></h1>
 
 ###
 
